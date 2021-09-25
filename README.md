@@ -6,4 +6,4 @@
 The program create a folder in your www folder (you should configure it) and create a new project folder with 3 files, the main file (like .html, .php, etc), styles.css and script.js.
 The main file content a basic html5 template linking the style.css and script.js to start to write code.
 
-After created the folder project and files, the project is opened in Chrome to visualize it and in vscode to edit it (you can change this code)
+After created the folder project and files, the project is opened in Chrome to visualize it and in vscode to edit it (you can change this in the code)
